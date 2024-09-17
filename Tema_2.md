@@ -30,7 +30,7 @@
   print('123')
   print(1.23)
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex1.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex1.png)
 
 #2.
   ```python
@@ -38,7 +38,7 @@
   print(5.1 + 8.37)
   print(3+7.04+2.33)
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex2.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex2.png)
 #3.
   ```python   
   print('Привет, Мир!')
@@ -50,7 +50,7 @@
   two = 'Мир!'
   print(one+two)
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex3.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex3.png)
 #4.
   ```python
   one = 'hello'
@@ -62,7 +62,7 @@
   three = None
   print(str(three))
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex4.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex4.png)
 #5.
   one = input('one:')
   two = input('two:')
@@ -70,7 +70,7 @@
   
   print(one, two, three)
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex5.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex5.png)
 #6.
   ```python
   a =12
@@ -80,31 +80,31 @@
   print('Целочисленное деление:', a//b)
   print('Нахождение остатка деления:', a%b)
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex6.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex6.png)
 #7.
   ```python
   line = 'Hello!'
   print(line*6)
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex7.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex7.png)
 #8.
   ```python
   sentence = 'hello World!'
   print(sentence.count('o'))
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex8.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex8.png)
 #9.
   ```python
   print('Hello \nWorld')
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex9.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex9.png)
 #10.
   ```python
   sentence = 'Hello World'
   print(sentence[1])
   print(sentence[:5])
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/lab2/ex10.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/lab2/ex10.png)
 ## Самостоятельная работа №2
 
 1.
@@ -112,60 +112,65 @@
   str = ''
   print(bool(str))
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex1.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex1.png)
 2.
   ```python
   a , b, c = 1, 2, 3
   print(a,b,c)
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex2.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex2.png)
 3.
   ```python
   num = int(input())
   print(num)
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex3.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex3.png)
 4.
   ```python
   s = input()[:5]
   print(s*16)
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex4.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex4.png)
 5.
   ```python
   day, month , year = int(input()),str(input()) ,int(input())
   print(f"Сегодня {day} {month} {year}", end = ' Всего хорошего!')
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex5.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex5.png)
 6.
   ```python
   sentence = "Hello World"; print(sentence.replace(" ", " my "))
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex6.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex6.png)
 7.
   ```python
   sentence = "Hello World"
   print("Длина строки:", len(sentence))
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex7.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex7.png)
 8.
   ```python
   sentence = "HELLO WORLD"
   print(sentence.lower())
   ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex8.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex8.png)
 9.
-  Введите два чтсла и выведите сумму разность произведение и частное код в две строки
+  написать программу где польщователь старается угадать загаданное число 
   ```python
-  a = int(input("первое число: "))
-  b = int(input("второе число: "))
+  import random
+
+a = int(input("угадайте число от 0 до 5: "))
+b = random.randint(0,5)
+if a==b:
+    print("вы угадали")
+else:
+    print("вы не угадали")
   ```
-  print(f"Сумма: {a + b}, Разность: {a - b}, Произведение: {a * b}, Частное: {a / b if b != 0 else 'деление на ноль'}")
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex9.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex9.png)
 10.
-  Пользовотель вводит строку ее нужно развернуть код в две строки
+   Нужно вывести три символа с третьего индекса шагом в 1
   ```python
   string = input("Введите строку: ")
-  print(string[::-1])
+print(string[3:6:1])
 ```
-  ![Меню](https://github.com/abarigena/Software_Engineering/blob/Tema_2/sam2/ex10.png)
+  ![Меню](https://github.com/Fantazya03/Software_Engineering/blob/Tema_2/sam2/ex10.png)
